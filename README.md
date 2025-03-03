@@ -14,3 +14,4 @@ I aim to create a calibration system that makes the tedious calibration process 
 - All project documentation and content will be written in Korean as I am a Korean developer
 - The project may be temporarily paused during July-August due to mandatory military service
 - All Korean documentation will be translated to English using LLM (Language Learning Models)
+- If someone contributes significantly to this project, I will try my best to write in English
